@@ -6,3 +6,4 @@
  * Description: Php setup
  */
 echo "hello world";
+echo "This is a github php connection test.";
