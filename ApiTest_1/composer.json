@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/i425",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "aideneichenour",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
